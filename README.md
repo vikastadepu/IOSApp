@@ -1,13 +1,12 @@
 # IOSApp
 
-# Prework - *Name of App Here*
+# Prework - *Colorful*
 
-Submitted by: **Your Name Here**
+Submitted by: **Vikas Tadepu**
 
-**Name of your app** is an app that... [TODO] 
+**Colorful** is an app that provides functionality to change the background colour of the Screen. 
 
-Time spent: **X** hours spent in total
-
+Time spent: 5 hrs
 ## Required Features
 
 The following **required** functionality is completed:
@@ -26,6 +25,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Intialy took time to get used to the environment.
 
 ## License
 
