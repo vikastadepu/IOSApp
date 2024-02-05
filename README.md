@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 https://www.loom.com/share/bd3be13eeeef4996ba512ae9f995f9c7?sid=f474c549-d168-41c9-b685-c149aefa9e24
 
+https://drive.google.com/file/d/1Ocr8RQuX0x3FnGzAIL0jF-cUaIJOPp_n/view?usp=drive_link.gif
+
 ## App Brainstorming (Step 4)
 
 
