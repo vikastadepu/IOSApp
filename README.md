@@ -28,16 +28,16 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
   - Group video call.
 
  # YouTube
-   Forwarding video just by touching screen.
-   Minimising the video screen and browsing other videos.
+  - Forwarding video just by touching screen.
+   -Minimising the video screen and browsing other videos.
 
  # Snapchat
-  Temporary chat history(deletion of chat within 24 hrs).
-  Temporary sharing of media (Media deletes within specified time after viewing).
+  - Temporary chat history(deletion of chat within 24 hrs).
+  - Temporary sharing of media (Media deletes within specified time after viewing).
 
 # Spotify
-  I like the offline playlists feature.
-  And the songs playlist recommendation feature.
+  - I like the offline playlists feature.
+  - And the songs playlist recommendation feature.
 
 ## Application Idea
 
