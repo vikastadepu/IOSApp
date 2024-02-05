@@ -19,6 +19,33 @@ https://www.loom.com/share/bd3be13eeeef4996ba512ae9f995f9c7?sid=f474c549-d168-41
 
 ## App Brainstorming (Step 4)
 
+
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+
+1.Whatsapp
+  Screen Sharing in whatsapp.
+  Chatting with an unsaved contact.
+  Group video call.
+
+ 2.YouTube
+   Forwarding video just by touching screen.
+   Minimising the video screen and browsing other videos.
+
+ 3.Snapchat
+  Temporary chat history(deletion of chat within 24 hrs).
+  Temporary sharing of media (Media deletes within specified time after viewing).
+
+ 4. Spotify
+  I like the offline playlists feature.
+  And the songs playlist recommendation feature.
+
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
+
+
+I propose the development of YogaPoseGuide, an innovative application designed to revolutionize yoga practice through cutting-edge technology. The app will leverage real-time pose recognition using the device's camera, providing users with immediate audio feedback to ensure precise and safe execution of yoga poses. This user-friendly platform will include a comprehensive pose library, personalized guidance, and progress tracking features, catering to individuals of all fitness levels. The goal is to address the need for accurate pose alignment, reducing the risk of injuries and enhancing the overall effectiveness of yoga sessions. By seamlessly integrating technology with holistic well-being, YogaPoseGuide aims to become the go-to companion for individuals seeking a transformative and personalized yoga experience. I am open to collaboration and support to bring this vision to life, contributing to a healthier and more mindful lifestyle for users worldwide.
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
