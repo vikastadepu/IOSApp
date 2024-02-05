@@ -6,7 +6,7 @@ Submitted by: **Vikas Tadepu**
 
 **Colorful** is an app that provides functionality to change the background colour of the Screen. 
 
-Time spent: 5 hrs
+Time spent: 8 hrs
 ## Required Features
 
 The following **required** functionality is completed:
