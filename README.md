@@ -23,8 +23,8 @@ https://www.loom.com/share/bd3be13eeeef4996ba512ae9f995f9c7?sid=f474c549-d168-41
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 
 # Whatsapp
-  Screen Sharing in whatsapp.
-  Chatting with an unsaved contact.
+  /n Screen Sharing in whatsapp.
+  /n Chatting with an unsaved contact.
   Group video call.
 
  # YouTube
